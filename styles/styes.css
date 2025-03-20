@@ -19,11 +19,11 @@ h1 {
 }
 
 main img {
-    width: 200px;
+    width: 135px;
     height: auto;
     border: 1px solid rgb(36, 25, 48);
     padding: 2px;
-    box-shadow: 0 0 30px rgb(37, 37, 37);
+    box-shadow: 0 0 20px rgb(37, 37, 37);
 }
 
 p { padding: 0;}
@@ -44,9 +44,9 @@ aside {
 }
 
 aside img {
-    width: 200px;
+    width: 180px;
     height: auto;
-    box-shadow: 0 0 30px rgb(black);
+    box-shadow: 0 0 30px #ACACAC;
 }
 
 footer{
